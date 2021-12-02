@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQ7cz7u0C9rIAioFuSVyPcbG/cuu+IQZX3aclyr38tgYHVC0a3u3yaBnyBLvOtBG2OSbzrF/mMZ+9f7c/y8W3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\source\\repos\\JBL_assistent\\JBL_assistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\audioswitcher.audioapi.coreaudio\\3.0.0.1\\audioswitcher.audioapi.coreaudio.3.0.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'AudioSwitcher.AudioApi.CoreAudio 3.0.0.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "AudioSwitcher.AudioApi.CoreAudio",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JBL_assistent/1.0.0": {
+        "dependencies": {
+          "AudioSwitcher.AudioApi.CoreAudio": "3.0.0.1"
+        },
+        "runtime": {
+          "JBL_assistent.dll": {}
+        }
+      },
+      "AudioSwitcher.AudioApi.CoreAudio/3.0.0.1": {
+        "runtime": {
+          "lib/net40/AudioSwitcher.AudioApi.CoreAudio.dll": {
+            "assemblyVersion": "3.0.0.209",
+            "fileVersion": "3.0.0.256"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JBL_assistent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AudioSwitcher.AudioApi.CoreAudio/3.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mFO412u+l4wvdEOWZyO5Qz0WpjAjlm0QDOIMqPjoptPOPSR3BPtGo4oWsmzHvLaTFzHEqvK1dfyCvAP6T7Y0xg==",
+      "path": "audioswitcher.audioapi.coreaudio/3.0.0.1",
+      "hashPath": "audioswitcher.audioapi.coreaudio.3.0.0.1.nupkg.sha512"
+    }
+  }
+}

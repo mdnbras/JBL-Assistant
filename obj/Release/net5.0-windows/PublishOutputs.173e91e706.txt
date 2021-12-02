@@ -1,0 +1,6 @@
+C:\Users\marce\source\repos\JBL_assistent\bin\Release\net5.0-windows\publish\JBL_assistant.exe
+C:\Users\marce\source\repos\JBL_assistent\bin\Release\net5.0-windows\publish\JBL_assistant.dll
+C:\Users\marce\source\repos\JBL_assistent\bin\Release\net5.0-windows\publish\JBL_assistant.deps.json
+C:\Users\marce\source\repos\JBL_assistent\bin\Release\net5.0-windows\publish\JBL_assistant.runtimeconfig.json
+C:\Users\marce\source\repos\JBL_assistent\bin\Release\net5.0-windows\publish\JBL_assistant.pdb
+C:\Users\marce\source\repos\JBL_assistent\bin\Release\net5.0-windows\publish\AudioSwitcher.AudioApi.CoreAudio.dll

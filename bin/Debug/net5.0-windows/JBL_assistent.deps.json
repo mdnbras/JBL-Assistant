@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JBL_assistent/1.0.0": {
+        "runtime": {
+          "JBL_assistent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JBL_assistent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
